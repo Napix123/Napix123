@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nikola, I'm 19 years old and I'm from Serbia. I'm a freshman Computer Science student in Belgrade,Serbia.
 - 👀 I’m interested in CS, programming, web development, app development, music.
 - 🌱 I’m currently learning C language, Javascript and Web development in general.
-- 📫 You can reach me via Twitter @NikolaFTW11 or on Github for any collabarations or requests.
+- 📫 You can reach me via Twitter @NikolaFTW11 or on Github for any collaborations or requests.
