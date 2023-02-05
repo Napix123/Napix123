@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikola, I'm 19 years old and I'm from Serbia. I'm a sophomore Computer Science student in Belgrade,Serbia.
-- 👀 I’m interested in CS, programming, web development, app development, music.
-- 🌱 I’ve gotten interested into Python and Machine Learning frameworks, so that's what I'm currently learning at the moment
-- 📫 You can reach me via Twitter @NikolaFTW11 or on Github for any collaborations or requests.
+- 👋 Hi, I’m Nikola, I'm 20 years old and I'm from Serbia. I'm a sophomore Computer Science student in Belgrade,Serbia.
+-  I’m interested in CS, programming, web development, app development, music.
+-  I’ve gotten interested into Python and Machine Learning frameworks, so that's what I'm currently learning at the moment
+-  You can reach me via Twitter @NikolaFTW11 or on Github for any collaborations or requests.
